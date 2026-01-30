@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Allow project essentials
+!.gitignore
+!README.md
+!relay-feedback/
+!relay-feedback/**
+!apps/
+!apps/relay-pty-visualizer/
+!apps/relay-pty-visualizer/**
+
+# Keep demo media
+!apps/relay-pty-visualizer/demo.gif
+!apps/relay-pty-visualizer/demo.mov

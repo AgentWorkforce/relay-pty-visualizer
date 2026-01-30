@@ -1,0 +1,1 @@
+Relay PTY Discovery: an interactive, animated explainer that shows every hop of the agent-relay + relay-pty pipeline—packets sprint from queue to daemon to Unix socket, dive through PTY injection, and echo back in a live terminal, all while a swarm of coordinating agents narrates the flow in real time.
