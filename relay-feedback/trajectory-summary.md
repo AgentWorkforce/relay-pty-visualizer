@@ -5,6 +5,7 @@ This project used Agent Relay + Trail to capture decisions made by the agent swa
 ## Trail artifacts
 - Active trajectory: `traj_b5axzwaok9ur` — “Build relay-pty visualization webapp with agent swarm.”
 - Export (full text): run `trail export traj_b5axzwaok9ur` or see inline snapshot below.
+- Transcript copy: `relay-feedback/transcript-2026-01-30.jsonl`
 - Trail CLI reference: https://github.com/AgentWorkforce/trajectories
 
 ## Decisions by agent (from relay transcript `.agent-relay/messages/2026-01-30.jsonl`)

@@ -1,9 +1,9 @@
 # Relay Feedback Report (Jan 30, 2026, US Eastern approximate timezone)
 
 ## Artifacts
-- Transcript (JSONL): `.agent-relay/messages/2026-01-30.jsonl`
-- Per-agent PTY logs: `.agent-relay/team/worker-logs/{Lead,Arch,Frontend,Backend,Researcher,Supervisor}.log`
-- Daemon/dashboard log: `.agent-relay/logs/daemon.log`
+- Transcript (JSONL): `relay-feedback/transcript-2026-01-30.jsonl` (copied from original `.agent-relay/messages/2026-01-30.jsonl`)
+- Per-agent PTY logs: archived in `archive/.agent-relay/team/worker-logs/{Lead,Arch,Frontend,Backend,Researcher,Supervisor}.log`
+- Daemon/dashboard log: `archive/.agent-relay/logs/daemon.log`
 - Frontend build output: `apps/relay-pty-visualizer/dist`
 
 ## Message Volume
