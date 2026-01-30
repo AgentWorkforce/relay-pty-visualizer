@@ -19,8 +19,9 @@ npm run build
 npm run preview
 ```
 
-## Demo
-Inline GIF lives in `apps/relay-pty-visualizer/demo.gif` (also `demo.mov` for higher quality).
+![Relay PTY demo](apps/relay-pty-visualizer/demo.gif)
+
+(Original video: `apps/relay-pty-visualizer/demo.mov` for higher quality.)
 
 ## Notes
 - Node 18 compatible (Vite pinned to 5.4); upgrade to Node 20+ to move to Vite 7 if desired.
